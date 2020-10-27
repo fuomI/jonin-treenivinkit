@@ -12,7 +12,7 @@ h1 {
 p {
   color: white;
   font-family: courier;
-  font-size: 160%;
+  font-size: 100%;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
@@ -20,17 +20,17 @@ p {
 a {
   color: white;
   font-family: courier;
-  font-size: 160%;
+  font-size: 80%;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
 img {
-	border: 2px solid powderblue;
+  border: 2px solid powderblue;
 }
 .center {
-	display:block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 50%;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
