@@ -16,3 +16,6 @@ a {
   font-family: courier;
   font-size: 160%;
 }
+img {
+	border: 2px solid powderblue;
+}
