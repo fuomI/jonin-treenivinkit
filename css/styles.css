@@ -5,16 +5,25 @@ h1 {
   color: white;
   font-family: verdana;
   font-size: 300%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 p {
   color: white;
   font-family: courier;
   font-size: 160%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 a {
   color: white;
   font-family: courier;
   font-size: 160%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 img {
 	border: 2px solid powderblue;
