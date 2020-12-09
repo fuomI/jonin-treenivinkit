@@ -89,7 +89,7 @@ nav li:before {
 	text-align: center;
 }
 .taustanen {
-background-image: url(../images/tausta.jpg);
+background-image: url(tausta.jpg);
 background-size: cover;
 box-shadow: 0 0 8px 8px white inset;
 }
