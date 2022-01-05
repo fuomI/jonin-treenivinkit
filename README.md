@@ -1,4 +1,3 @@
-# Jonin Treenivinki 
 ![logo][logo]
 ## Project description
 
@@ -8,10 +7,10 @@ During a course about webpages, HTML, and CSS in Laurea UAS we were tasked with 
 
 Our teacher demanded following things:
 
-- Use Bootstrap (I used version *4.5*)
+- Use Bootstrap (I used version **4.5**)
 - Make the site responsive so that it can be viewed on different sized screens
 - Make it look nice (not a requirement tho)
-- Site must have atleast *3* pages
+- Site must have at least **3** pages
 
 ## "Languages"
 
