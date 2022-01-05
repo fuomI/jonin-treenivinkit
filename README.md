@@ -1,8 +1,32 @@
-# jonintreenivinkit
+# Jonin Treenivinki 
+![logo][logo]
+## Project description
 
-These are my first webpages that I made for a website course in Laurea UAS. 
+During a course about webpages, HTML, and CSS in Laurea UAS we were tasked with making a webpage as our final assignment.
 
-The site was made using Bootsrap 4.5 framework.
-The goal was to make visually appealing static site that also scaled well to different devices.
+## Key focus
 
-Site is also published on Netlify: https://serene-hamilton-61c7b1.netlify.app
+Our teacher demanded following things:
+
+- Use Bootstrap (I used version *4.5*)
+- Make the site responsive so that it can be viewed on different sized screens
+- Make it look nice (not a requirement tho)
+- Site must have atleast *3* pages
+
+## "Languages"
+
+- HTML
+- CSS
+
+## Frameworks
+
+- Bootstrap 4.5
+
+## How to run?
+
+Site is published on Netlify: https://serene-hamilton-61c7b1.netlify.app
+
+![mies][mies]
+
+[logo]: images/logo.png
+[mies]: images/fkesk.png
